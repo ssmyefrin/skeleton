@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+
+# Java / Gradle
+.gradle/
+build/
+out/
+bin/
+test-results/
+*.class
+*.jar
+*.war
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Node / Frontend
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Other
+.vscode/
